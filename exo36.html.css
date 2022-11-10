@@ -1,0 +1,103 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: grey;
+    width: 100%;
+    padding: 2%;
+}
+
+.menu_principal{
+    display: inline-block;
+    padding-left: 17%;
+    position: relative;
+    bottom: 4rem;
+}
+
+.menu_principal a{
+    color: white;
+    font-weight: bold;
+    text-decoration-line: none;
+}
+
+h1{
+    text-align: center;
+    color: grey;
+    padding: 2rem;
+}
+
+h2, h3{
+    text-align: center;
+}
+
+.sidebarre{
+    width:20% ;
+    background-color: rgba(124,124,124,0.41);
+    text-indent: 10px;
+    padding-left: 1rem;
+    margin-left: 3rem;
+}
+
+.sidebarre p{
+    padding: 1rem;
+}
+
+.section1{
+    background-color: rgba(124,124,124,0.41);
+    width: 50%;
+    position: relative;
+    left: 55rem;
+    bottom: 30rem;
+    padding: 1rem;
+
+}
+
+.section2{
+    background-color: rgba(124,124,124,0.41);
+    width: 50%;
+    position: relative;
+    left: 55rem;
+    bottom: 25rem;
+    padding: 2rem;
+}
+
+.france2{
+    width: 21%;
+    background-color: grey;
+    display: inline-block;
+    padding: 3rem;
+}
+
+.france3{
+    width: 21%;
+    background-color: grey;
+    display: inline-block;
+    padding: 3rem;
+
+}
+
+.TF1{
+    width: 21%;
+    background-color: grey;
+    display: inline-block;
+    padding: 3rem;
+}
+
+.TF1 ,.france3 ,.france2{
+    margin-left: 6rem;
+}
+
+footer{
+    background-color: grey;
+    padding: 2%;
+}
+
+footer, p{
+    text-align: center;
+}
+
+
+
